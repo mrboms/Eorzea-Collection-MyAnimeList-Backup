@@ -1,0 +1,11 @@
+Anime
+@\import "https://malscraper.azurewebsites.net/covers/auto/presets/dataimagelinkafter";
+@\import "https://mrboms.github.io/Eorzea-Collection-MyAnimeList/Eorzea_Collection/Eorzea_Collection.css";
+
+Manga
+@\import "https://mrboms.github.io/Eorzea-Collection-MyAnimeList/Cover/MaingaCover.css";
+@\import "https://mrboms.github.io/Eorzea-Collection-MyAnimeList/Eorzea_Collection/Eorzea_Collection.css";
+
+.list-container .cover-block {
+    background-image: url("https://mrboms.github.io/Eorzea-Collection-MyAnimeList//Eorzea_Collection/images/Cover-Block-7.png") !important;
+}
